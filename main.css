@@ -1,0 +1,131 @@
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+#navInfo {
+    margin-left: 50px;   
+    font-size: 1.1em;    
+    font-family: "PT Sans Caption", sans-serif;
+}  
+        
+.menu #navModal {
+    font-size:0.9em;
+    font-weight: bold;
+}
+
+#navModal:hover {
+  cursor: pointer;
+  
+}
+
+#top-container {
+    background-image: url("img/title_2000x1000.jpg");
+    height: 850px;
+    width: 100%;
+    background-size: cover;    
+           
+}
+
+#topRow {
+    margin-top: 20%;
+    text-align: center;
+    color: white;
+}
+
+#themen {
+    width: 90%;
+}
+
+#topics {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.marginTop {
+    font-family: "PT Sans Caption", sans-serif;
+    font-size: 3em;
+}
+
+.lead {
+    font-family: "PT Sans Caption", sans-serif;
+    margin-bottom: 60px;
+    font-size: 2.5em;
+}
+
+#image1 {
+    background-image: url("img/ultimaker_2000x500.jpg");
+    height: 400px;
+    width: 100%;
+    background-size: cover;  
+    margin-top: 100px;
+}
+
+#image2 {
+    background-image: url("img/desktop_2000x500.jpg");
+    height: 400px;
+    width: 100%;
+    background-size: cover;  
+    margin-top: 100px;
+}
+
+#image3 {
+    background-image: url("img/code_2000x500.jpg");
+    height: 400px;
+    width: 100%;
+    background-size: cover;  
+    margin-top: 100px;
+}
+
+.bold {
+    font-family: "PT Sans Caption", sans-serif;
+    font-size: 2em;
+}
+
+.head {
+    font-family: "PT Sans Caption", sans-serif;
+    font-size: 2.7em;
+    margin-bottom: 40px;    
+}
+
+.items {
+    font-family: "PT Sans Caption", sans-serif;
+    font-size: 1.2em;
+}
+
+#referenzen {
+    text-align: center;
+}
+
+.logo-item {
+    margin-top: 50px;
+    margin-bottom: 80px;
+    font-family: "PT Sans Caption", sans-serif;
+    font-size: 2em
+}
+
+#kontakt {
+    text-align: center;
+    width: 80%;
+}
+
+.weblinks {
+    color: black;
+}
+
+.kontakt-item {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-family: "PT Sans Caption", sans-serif;
+    font-size: 2em
+}
+
+.impress-item {
+    font-family: "PT Sans Caption", sans-serif;
+    text-align: center;
+}
